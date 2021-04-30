@@ -20,5 +20,5 @@ Within this Github, you'll find:
 <ul>
 <li>Daily reservoir water data for the 4 select reservoirs</li>
 <li>Key contextual shapefiles</li>
-<li>Aqueduct water risk indicators</li>
+<li>A link to Aqueduct water risk indicators</li>
 
